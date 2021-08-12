@@ -1,0 +1,14 @@
+[
+    {
+        "id_carrito": 1,
+        "id_user": 1,
+        "articulos":[1,3],
+        "modificado": "11/08/2021"
+    },
+    {
+        "id_carrito": 2,
+        "id_user": 2,
+        "articulos":[2,4],
+        "modificado": "10/08/2021"
+    }
+]

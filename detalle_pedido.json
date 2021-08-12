@@ -1,0 +1,30 @@
+[
+    {
+        "id_detalle": 1,
+        "id_pedido": 1,
+        "id_producto": 1,
+        "id_consignatario": 2,
+        "precio_unitario": 1200
+    },
+    {
+        "id_detalle": 2,
+        "id_pedido": 1,
+        "id_producto": 2,
+        "id_consignatario": 1,
+        "precio_unitario": 1800
+    },
+    {
+        "id_detalle": 3,
+        "id_pedido": 2,
+        "id_producto": 3,
+        "id_consignatario": 2,
+        "precio_unitario": 1000
+    },
+    {
+        "id_detalle": 4,
+        "id_pedido": 2,
+        "id_producto": 4,
+        "id_consignatario": 1,
+        "precio_unitario": 1900
+    }
+]

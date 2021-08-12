@@ -1,0 +1,18 @@
+[
+    {
+        "id_pedido": 1,
+        "monto": 3000,
+        "cant_art": 2,
+        "envio": true,
+        "pago_confirm": false,
+        "fecha_generacion": "11/08/2021"
+    },
+    {
+        "id_pedido": 2,
+        "monto": 2900,
+        "cant_art": 3,
+        "envio": false,
+        "pago_confirm": true,
+        "fecha_generacion": "10/08/2021"
+    }
+]

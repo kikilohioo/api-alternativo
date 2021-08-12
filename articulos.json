@@ -1,0 +1,50 @@
+[
+    {
+        "id_articulo": 1,
+        "id_consignatario": 2,
+        "nombre": "Pantalón Nike Talle 42",
+        "precio": 1200,
+        "marca": "Nike",
+        "categoria": "Pantalones",
+        "descripcion": "Pantalón Nike, talle 38, condición pefecta y con estilo deportivo",
+        "imgSrc": "media/img/art1.jpg",
+        "estado": "activa",
+        "fecha_alta": "01/08/2021"
+    },
+    {
+        "id_articulo": 2,
+        "id_consignatario": 1,
+        "nombre": "Pantalón Adidas Talle 38",
+        "precio": 1800,
+        "marca": "Adidas",
+        "categoria": "Pantalones",
+        "descripcion": "Pantalón Nike, talle 38, condición pefecta y con estilo deportivo",
+        "imgSrc": "media/img/art2.png",
+        "estado": "activa",
+        "fecha_alta": "04/08/2021"
+    },
+    {
+        "id_articulo": 3,
+        "id_consignatario": 2,
+        "nombre": "Camiseta Adidas Talle S",
+        "precio": 1000,
+        "marca": "Adidas",
+        "categoria": "Camisetas",
+        "descripcion": "Camiseta Adidas, talle S, condición pefecta y con estilo retro",
+        "imgSrc": "media/img/art3.png",
+        "estado": "activa",
+        "fecha_alta": "07/08/2021"
+    },
+    {
+        "id_articulo": 4,
+        "id_consignatario": 1,
+        "nombre": "Camiseta Nike Talle L",
+        "precio": 1900,
+        "marca": "Nike",
+        "categoria": "Camisetas",
+        "descripcion": "Camiseta Nike, talle L, condición pefecta y con estilo retro",
+        "imgSrc": "media/img/art4.jpg",
+        "estado": "activa",
+        "fecha_alta": "09/08/2021"
+    }
+]

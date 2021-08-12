@@ -1,0 +1,29 @@
+[
+    {
+        "id_user": 1,
+        "nombre": "Juan Carlos",
+        "email": "juanca@gmail.com",
+        "contraseña": "Ads76saA88hds",
+        "telefono": "095 789 523",
+        "cant_art_comp": 20,
+        "fecha_alta": "02/06/2021"
+    },
+    {
+        "id_user": 2,
+        "nombre": "Maria Becerra",
+        "email": "becerra1995@gmail.com",
+        "contraseña": "aGDas7sdioas7",
+        "telefono": "093 759 573",
+        "cant_art_comp": 15,
+        "fecha_alta": "03/06/2021"
+    },
+    {
+        "id_user": 3,
+        "nombre": "Lucia Samsung",
+        "email": "lusams@gmail.com",
+        "contraseña": "ASdg87sg8asd",
+        "telefono": "096 789 823",
+        "cant_art_comp": 1,
+        "fecha_alta": "10/06/2021"
+    }
+]
