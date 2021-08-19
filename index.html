@@ -1,12 +1,57 @@
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-<title>MER tienda ropa.html</title>
-<meta charset="utf-8"/>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 0;
+            margin: 0;
+        }
+        header{
+            background-color: brown;
+            padding: 10px;
+            color: white;
+        }
+        main{
+            text-align: center;
+            padding: 15px;
+        }
+        main a{
+            display: block;
+            padding: 5px;
+        }
+        .prodview{
+            text-align: center;
+        }
+        .prod{
+            display: inline-block;
+            margin: 15px;
+            border-style: 1px solid black;
+        }
+        .prod img{
+            height: 200px;
+        }
+    </style>
 </head>
 <body>
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2021-08-12T12:13:02.775Z\&quot; agent=\&quot;5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36\&quot; etag=\&quot;mx-GyRw4gdyyOycO5ET9\&quot; version=\&quot;14.9.5\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;R2lEEEUBdFMjLlhIrx00\&quot; name=\&quot;Page-1\&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;&quot;,&quot;toolbar&quot;:&quot;pages zoom layers lightbox&quot;,&quot;page&quot;:0}"></div>
-<script type="text/javascript" src="https://app.diagrams.net/js/viewer-static.min.js"></script>
+    <header>
+        <h1>Second Hand</h1>
+    </header>
+    <main>
+        <h2>Quienes Somos</h2>
+        <p>Quienes somos
+            Second hand nace en mayo de 2010 para satisfacer a un público innovador que busca prendas únicas, de calidad, cuidadosamente seleccionadas, diferentes y a un buen precio. Somos un equipo de mujeres emprendedoras y apasionadas que logramos posicionar nuestros locales como una opción de compra usual, rentable e inteligente. Nuestra misión es mantener las prendas de calidad en circulación por más tiempo.
+            Ahora con Second hand web te facilitamos renovar tu guardarropas sin salir de tu casa. Comprando en Second hand web ahorrá hasta el 80 % en vestimenta, teniendo al alcance de un click prendas seleccionadas a través de imágenes que son un fiel reflejo del estado real de la prenda. Renová la energía de tu placard.</p>
+        <a href="#">más sobre nosotros</a>    
+        <div class="prodgrid" id="prodgrid"></div>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="js/init.js"></script>
 </body>
 </html>
