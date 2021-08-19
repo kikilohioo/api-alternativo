@@ -19,7 +19,7 @@
         "marca": "Adidas",
         "categoria": "Pantalones",
         "descripcion": "Pantalón Nike, talle 38, condición pefecta y con estilo deportivo",
-        "imgSrc": "media/img/art2.png",
+        "imgSrc": "media/img/art2.jpg",
         "estado": "activa",
         "fecha_alta": "04/08/2021"
     },
@@ -31,7 +31,7 @@
         "marca": "Adidas",
         "categoria": "Camisetas",
         "descripcion": "Camiseta Adidas, talle S, condición pefecta y con estilo retro",
-        "imgSrc": "media/img/art3.png",
+        "imgSrc": "media/img/art3.jpg",
         "estado": "activa",
         "fecha_alta": "07/08/2021"
     },
