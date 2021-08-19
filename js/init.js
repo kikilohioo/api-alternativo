@@ -1,4 +1,4 @@
-let ARTICULOS_URL = "https://kikilohioo.github.io/api-alternativo/api-alternativo/jsons/articulos.json";
+let ARTICULOS_URL = "https://kikilohioo.github.io/api-alternativo/jsons/articulos.json";
 
 document.addEventListener("DOMContentLoaded", function (e) {
     let prodgrid = document.getElementById("prodgrid");
